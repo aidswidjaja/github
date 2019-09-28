@@ -53,11 +53,11 @@
 
 * [**Python** Too Risky – airwidjaja/TooRisky.py](https://github.com/airswidjaja/TooRisky.py)
 * [**Oxwall** Plumberry](https://imgur.com/a/YdBpY8g)
-* **HTML** I LOVE MUMMY 2 – request for access
-* **Python** valentines and mum – request for access
-* **Python** The Hangman Project – request for access
-* **Python** HxDE – request for access
-* **Linux** SamOS – lost to the internet!
+* **HTML** I LOVE MUMMY 2 (kid project) – request for access
+* **Python** valentines and mum (kid project) – request for access
+* **Python** The Hangman Project (kid project) – request for access
+* [**Python** hxDE – hyperworks/hyperworks](https://bitbucket.org/hyperworks/hyperworks)
+* **Linux** SamOS (kid project) – lost to the internet!
 
 ### Future Projects
 
