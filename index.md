@@ -1,5 +1,9 @@
 # adw
-###### Welcome to sturdy-potato, Adrian Widjaja's natural habitat on GitHub.
+## Welcome to sturdy-potato, Adrian Widjaja's natural habitat on GitHub.
+
+Hi, I'm Adrian and this is a list of all of my software development projects since I got into that sort of stuff. It's quite facsinating, isn't it!
+
+###### Also, if you're trying to dox me, good luck but I don't really care. My full name is in my public email, and I've never posted my face or address on the Internet, so have fun!
 
 ### Other accounts 
 
@@ -9,56 +13,69 @@
 
 ### Live websites
 
-* [**HTML** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
-* [**HTML** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
-* [**HTML** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
-* [**HTML** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide)
-* [**HTML** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://aidswidjaja.github.io/pigeonbs)
-* [**HTML** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
-* [**HTML** Pineapple Holdings – aidswidjaja/pineapple](https://aidswidjaja.github.io/pineapple)
+* [**HTML/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
+* [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
+* [**HTML/SEP2019** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
+* [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide)
+* [**HTML/SEP2019** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://aidswidjaja.github.io/pigeonbs)
+* [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
+* [**HTML/SEP2019** Pineapple Holdings – aidswidjaja/pineapple](https://aidswidjaja.github.io/pineapple)
 
 ### Depreceated sites
 
-* [**Website** Adrian Services](http://adrianservices.weebly.com/)
-* [**Website** Adrian's blog](http://blogspotadrian.weebly.com/)
-* [**HTML** Picnic Group 2016 (Archive)](https://web.archive.org/web/20161110202519/http://picnic-group.000webhostapp.com/)
-* [**Website** Pinecone](http://pineconereads.weebly.com/)
-* [**Website** The SamOS Project](https://samosdevelopment.wordpress.com/)
+* [**Wordpress/MAY2014** Access AWT](https://accessawt.wordpress.com/) - like Google Drive before I realised it was a thing
+* [**Wordpress/APR2014** A3 Services](https://adrianservices.wordpress.com/)
+* [**Wordpress/APR2014** Adrian & Sam's Computer Support and Services](http://ascsas.wordpress.com) - anyone remember 4LK Stationary Service?
+* [**Weebly/2014** Adrian Services](http://adrianservices.weebly.com/)
+* [**Weebly/2014** Adrian's Homepage](http://adrianwidjaja.weebly.com/)
+* [**Weebly/OCT2013** Adrian's blog](http://blogspotadrian.weebly.com/)
+* [**Wordpress/DEC2016** Glitchmelon](http://glitchmelon.wordpress.com/)
+* [**Tumblr/JAN2017-FEB2017** Ivolve](https://ivolvedev.tumblr.com/)
+* [**HTML/DEC2016** Picnic Group 2016 (Archive)](https://web.archive.org/web/20161110202519/http://picnic-group.000webhostapp.com/)
+* [**Weebly/JUN2016-SEP2016** Pinecone](http://pineconereads.weebly.com/) - for some reason I'm still getting a lot of site traffic from this site
+* [**Wordpress/JUN2014-NOV2014** The SamOS Project](https://samosdevelopment.wordpress.com/)
 
 ### Unavailable sites (lost to the internet!)
 
-* http://endofyear2015.byethost24.com/Home – view image here on [Imgur](https://imgur.com/a/YdBpY8g)
-* http://plumberry.byethost15.com – view logo here on [Imgur](https://imgur.com/a/YdBpY8g)
+* **HTML/DEC2015** http://endofyear2015.byethost24.com/Home – view image here on [Imgur](https://imgur.com/a/YdBpY8g)
+* **Oxwall/NOV2015-MAR2016** http://plumberry.byethost15.com – view logo here on [Imgur](https://imgur.com/a/YdBpY8g)
+* **Weebly/OCT2013** thehangmanproject.weebly.com
 
 ### Demos and Templates
 
-* [**HTML** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://github.com/aidswidjaja/html5-boilerplate)
-* [**JavaScript** jsonfetch – aidswidjaja/jsonfetch](https://github.com/aidswidjaja/jsonfetch)
+* [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://github.com/aidswidjaja/html5-boilerplate)
+* [**JavaScript/AUG2019** jsonfetch – aidswidjaja/jsonfetch](https://github.com/aidswidjaja/jsonfetch)
 
 ### Repositories
 
 ##### Internet Work
 
-* [**HTML** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://github.com/aidswidjaja/aidswidjaja.github.io)
-* [**HTML** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://github.com/aidswidjaja/osc-guide)
-* [**HTML** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://github.com/aidswidjaja/tangible-potato)
+* [**HTML/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://github.com/aidswidjaja/aidswidjaja.github.io)
+* [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://github.com/aidswidjaja/osc-guide)
+* [**HTML/OCT2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://github.com/aidswidjaja/tangible-potato)
 
 ##### School Stuff
 
-* [**HTML** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://github.com/aidswidjaja/narwhals)
-* [**HTML** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://github.com/aidswidjaja/pigeonbs)
-* [**HTML** Pineapple Holdings – aidswidjaja/pineapple](https://github.com/aidswidjaja/pineapple)
+* [**HTML/SEP2019** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://github.com/aidswidjaja/narwhals)
+* [**HTML/SEP2019** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://github.com/aidswidjaja/pigeonbs)
+* [**HTML/SEP2019** Pineapple Holdings – aidswidjaja/pineapple](https://github.com/aidswidjaja/pineapple)
 
 ### Depreceated Projects
 
-* [**Python** Too Risky – airwidjaja/TooRisky.py](https://github.com/airswidjaja/TooRisky.py)
-* [**Oxwall** Plumberry](https://imgur.com/a/YdBpY8g)
-* **HTML** I LOVE MUMMY 2 (kid project) – request for access
-* **Python** valentines and mum (kid project) – request for access
-* **Python** The Hangman Project (kid project) – request for access
-* [**Python** hxDE – hyperworks/hyperworks](https://bitbucket.org/hyperworks/hyperworks)
-* **Linux** SamOS (kid project) – lost to the internet!
+* [**Python/AUG2017** Too Risky – airwidjaja/TooRisky.py](https://github.com/airswidjaja/TooRisky.py)
+* [**Oxwall/NOV2015-MAR2016** Plumberry](https://imgur.com/a/YdBpY8g)
+* **HTML/FEB2016** I LOVE MUMMY 2 (kid project) – request for access
+* **Python/FEB2016** valentines and mum (kid project) – request for access
+* **Python/OCT2013** The Hangman Project (kid project) – request for access
+* [**Python/JUN2016** hxDE – hyperworks/hyperworks](https://bitbucket.org/hyperworks/hyperworks)
+* **Linux/JUN2014-NOV2014** SamOS (kid project) – lost to the internet!
+* [**Panda3D/JAN2017-FEB2017** Ivolve](https://ivolvedev.tumblr.com/)
 
+### Scratch Projects (more kid projects lol :D) - most of these are depreceated
+
+* [**Studio** acuaNotes](https://scratch.mit.edu/studios/798616/)
+* [**Scratch** ransomware!](https://scratch.mit.edu/projects/29516478/)
+* [**Scratch** colour pong remix: Crazy Colours: EVEN MORE COLOURFUL.](https://scratch.mit.edu/projects/31360706/)
 ### Future Projects
 
 * terebigeemu (under Lemon Gaming Technologies)
@@ -66,6 +83,8 @@
 ### Social
 
 * [@adrianpenguin1 on Twitter](https://twitter.com/adrianpenguin1)
+* [adrian08 on Scratch](https://scratch.mit.edu/users/adrian08/)
+* [RangerAW on Scratch](https://scratch.mit.edu/users/RangerAW/)
 * [Adrian Widjaja on YouTube](https://youtube.com/c/AdrianWidjaja)
 
 ###### Last updated 28 September 2019
