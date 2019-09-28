@@ -23,17 +23,17 @@ Hi, I'm Adrian and this is a list of all of my software development projects sin
 
 ### Depreceated sites
 
-* [**Wordpress/MAY2014** Access AWT](https://accessawt.wordpress.com/) - like Google Drive before I realised it was a thing
-* [**Wordpress/APR2014** A3 Services](https://adrianservices.wordpress.com/)
-* [**Wordpress/APR2014** Adrian & Sam's Computer Support and Services](http://ascsas.wordpress.com) - anyone remember 4LK Stationary Service?
+* [**WordPress/APR2014** A3 Services](https://adrianservices.wordpress.com/)
+* [**WordPress/MAY2014** Access AWT](https://accessawt.wordpress.com/) - like Google Drive before I realised it was a thing
+* [**WordPress/APR2014** Adrian & Sam's Computer Support and Services](http://ascsas.wordpress.com) - anyone remember 4LK Stationary Service?
 * [**Weebly/2014** Adrian Services](http://adrianservices.weebly.com/)
 * [**Weebly/2014** Adrian's Homepage](http://adrianwidjaja.weebly.com/)
 * [**Weebly/OCT2013** Adrian's blog](http://blogspotadrian.weebly.com/)
-* [**Wordpress/DEC2016** Glitchmelon](http://glitchmelon.wordpress.com/)
+* [**WordPress/DEC2016** Glitchmelon](http://glitchmelon.wordpress.com/)
 * [**Tumblr/JAN2017-FEB2017** Ivolve](https://ivolvedev.tumblr.com/)
 * [**HTML/DEC2016** Picnic Group 2016 (Archive)](https://web.archive.org/web/20161110202519/http://picnic-group.000webhostapp.com/)
 * [**Weebly/JUN2016-SEP2016** Pinecone](http://pineconereads.weebly.com/) - for some reason I'm still getting a lot of site traffic from this site
-* [**Wordpress/JUN2014-NOV2014** The SamOS Project](https://samosdevelopment.wordpress.com/)
+* [**WordPress/JUN2014-NOV2014** The SamOS Project](https://samosdevelopment.wordpress.com/)
 
 ### Unavailable sites (lost to the internet!)
 
@@ -73,12 +73,12 @@ Hi, I'm Adrian and this is a list of all of my software development projects sin
 
 ### Scratch Projects (more kid projects lol :D) - most of these are depreceated
 
-* [**Studio** acuaNotes](https://scratch.mit.edu/studios/798616/)
-* [**Scratch** ransomware!](https://scratch.mit.edu/projects/29516478/)
-* [**Scratch** colour pong remix: Crazy Colours: EVEN MORE COLOURFUL.](https://scratch.mit.edu/projects/31360706/)
+* [**Studio/DEC2014-APR2015** acuaNotes](https://scratch.mit.edu/studios/798616/)
+* [**Scratch/NOV2014** ransomware!](https://scratch.mit.edu/projects/29516478/)
+* [**Scratch/OCT2014** colour pong remix: Crazy Colours: EVEN MORE COLOURFUL.](https://scratch.mit.edu/projects/31360706/)
 ### Future Projects
 
-* terebigeemu (under Lemon Gaming Technologies)
+* terebigeemu (under Lemon Gaming Technologies, because why not!)
 
 ### Social
 
@@ -87,4 +87,4 @@ Hi, I'm Adrian and this is a list of all of my software development projects sin
 * [RangerAW on Scratch](https://scratch.mit.edu/users/RangerAW/)
 * [Adrian Widjaja on YouTube](https://youtube.com/c/AdrianWidjaja)
 
-###### Last updated 28 September 2019
+###### Last updated 29 September 2019
