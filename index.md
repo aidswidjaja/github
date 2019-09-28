@@ -4,13 +4,14 @@
 ### Other accounts 
 
 [airswidjaja](https://github.com/airswidjaja)
+
 [terebigeemu](https://github.com/terebigeemu)
 
 ### Live websites
 
-* [**HTML** sturdy-potato | aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
-* [**HTML** Adrian's HTML5 Boilerplate | aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
-* [**HTML** Greedy Narwhals ViewPoint | aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
+* [**HTML** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
+* [**HTML** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
+* [**HTML** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
 * [**HTML** A quick and simple guide to Online Support Communities | aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide)
 * [**HTML** Pigeon Broadcasting Service | aidswidjaja/pigeonbs](https://aidswidjaja.github.io/pigeonbs)
 * [**HTML** r/teenagers concept website with modified Bootstrap by Adrian | aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
