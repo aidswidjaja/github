@@ -7,6 +7,7 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 
 ### Live websites
 
+* [**Jekyll/OCT2019** Adrian's Study Club – aidswidjaja/study](https://aidswidjaja.github.io/study)
 * [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
 * [**GFM/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
 * [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
@@ -50,6 +51,7 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 
 ##### School Stuff
 
+* [**Jekyll/OCT2019** Adrian's Study Club – aidswidjaja/study](https://aidswidjaja.github.io/study)
 * [**HTML/SEP2019** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://github.com/aidswidjaja/narwhals)
 * [**HTML/SEP2019** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://github.com/aidswidjaja/pigeonbs)
 * [**HTML/SEP2019** Pineapple Holdings – aidswidjaja/pineapple](https://github.com/aidswidjaja/pineapple)
@@ -88,4 +90,4 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 * [RangerAW on Scratch](https://scratch.mit.edu/users/RangerAW/)
 * [Adrian Widjaja on YouTube](https://youtube.com/c/AdrianWidjaja)
 
-###### Last updated 1 October 2019
+###### Last updated 2 October 2019
