@@ -1,24 +1,18 @@
 # adw
 ## Welcome to sturdy-potato, Adrian Widjaja's natural habitat on GitHub.
 
-Hi, I'm Adrian and here is a list of all of my software development projects since I got into that sort of stuff. It's quite facsinating, isn't it!
+Hi, I'm Adrian and here is a list of all of my software development projects since I got into that sort of stuff. It's quite fascinating, isn't it!
 
 ###### Also, if you're trying to dox me, good luck but I don't really care. My full name is in my public email, and I've never posted my face or address on the Internet, so have fun!
 
-### Other accounts 
-
-[airswidjaja](https://github.com/airswidjaja)
-
-[terebigeemu](https://github.com/terebigeemu)
-
 ### Live websites
 
+* [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
 * [**GFM/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
 * [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
 * [**HTML/SEP2019** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
 * [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide)
 * [**HTML/SEP2019** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://aidswidjaja.github.io/pigeonbs)
-* [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
 * [**HTML/SEP2019** Pineapple Holdings – aidswidjaja/pineapple](https://aidswidjaja.github.io/pineapple)
 
 ### Depreceated sites
@@ -62,24 +56,30 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 
 ### Depreceated Projects
 
-* [**Python/AUG2017** Too Risky – airwidjaja/TooRisky.py](https://github.com/airswidjaja/TooRisky.py)
-* [**Oxwall/NOV2015-MAR2016** Plumberry](https://imgur.com/a/YdBpY8g)
-* **HTML/FEB2016** I LOVE MUMMY 2 (kid project) – request for access
-* **Python/FEB2016** valentines and mum (kid project) – request for access
-* **Python/OCT2013** The Hangman Project (kid project) – request for access
 * [**Python/JUN2016** hxDE – hyperworks/hyperworks](https://bitbucket.org/hyperworks/hyperworks)
-* **Linux/JUN2014-NOV2014** SamOS (kid project) – lost to the internet!
+* **HTML/FEB2016** I LOVE MUMMY 2 (kid project) – request for access
 * [**Panda3D/JAN2017-FEB2017** Ivolve](https://ivolvedev.tumblr.com/)
+* [**Python/AUG2017** Too Risky – airswidjaja/TooRisky.py](https://github.com/airswidjaja/TooRisky.py)
+* [**Oxwall/NOV2015-MAR2016** Plumberry](https://imgur.com/a/YdBpY8g)
+* **Linux/JUN2014-NOV2014** SamOS (kid project) – lost to the internet!
+* **Python/OCT2013** The Hangman Project (kid project) – request for access
+* **Python/FEB2016** valentines and mum (kid project) – request for access
 
 ### Scratch Projects (more kid projects lol :D) - most of these are depreceated
 
 * [**Studio/DEC2014-APR2015** acuaNotes](https://scratch.mit.edu/studios/798616/)
-* [**Scratch/NOV2014** ransomware!](https://scratch.mit.edu/projects/29516478/)
 * [**Scratch/OCT2014** colour pong remix: Crazy Colours: EVEN MORE COLOURFUL.](https://scratch.mit.edu/projects/31360706/)
+* [**Scratch/NOV2014** ransomware!](https://scratch.mit.edu/projects/29516478/)
 
 ### Future Projects
 
-* [terebigeemu](https://github.com/terebigeemu/) -  (under Lemon Gaming Technologies, because why not!)
+* [terebigeemu](https://github.com/terebigeemu/) - (under Lemon Gaming Technologies, because why not!)
+
+### Other accounts on GitHub
+
+[airswidjaja](https://github.com/airswidjaja)
+
+[terebigeemu](https://github.com/terebigeemu)
 
 ### Social
 
@@ -88,4 +88,4 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 * [RangerAW on Scratch](https://scratch.mit.edu/users/RangerAW/)
 * [Adrian Widjaja on YouTube](https://youtube.com/c/AdrianWidjaja)
 
-###### Last updated 29 September 2019
+###### Last updated 1 October 2019
