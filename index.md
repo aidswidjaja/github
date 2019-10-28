@@ -8,11 +8,11 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 ### Live websites
 
 * [**Jekyll/OCT2019** Adrian's Study Club – aidswidjaja/study](https://aidswidjaja.github.io/study)
-* [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato)
+<!-- * [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato) -->
 * [**GFM/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
 * [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
 * [**HTML/SEP2019** Greedy Narwhals ViewPoint – aidswidjaja/narwhals](https://aidswidjaja.github.io/narwhals)
-* [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide)
+<!-- * [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://aidswidjaja.github.io/osc-guide) -->
 * [**HTML/SEP2019** Pigeon Broadcasting Service – aidswidjaja/pigeonbs](https://aidswidjaja.github.io/pigeonbs)
 * [**HTML/SEP2019** Pineapple Holdings – aidswidjaja/pineapple](https://aidswidjaja.github.io/pineapple)
 
@@ -27,7 +27,7 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 * [**WordPress/DEC2016** Glitchmelon](http://glitchmelon.wordpress.com/)
 * [**Tumblr/JAN2017-FEB2017** Ivolve](https://ivolvedev.tumblr.com/)
 * [**HTML/DEC2016** Picnic Group 2016 (Archive)](https://web.archive.org/web/20161110202519/http://picnic-group.000webhostapp.com/)
-* [**Weebly/JUN2016-SEP2016** Pinecone](http://pineconereads.weebly.com/) - for some reason I'm still getting a lot of site traffic from this site
+* [**Weebly/JUN2016-SEP2016** Pinecone](http://pineconereads.weebly.com/) 
 * [**WordPress/JUN2014-NOV2014** The SamOS Project](https://samosdevelopment.wordpress.com/)
 
 ### Unavailable sites (lost to the internet!)
@@ -46,8 +46,8 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 ##### Internet Work
 
 * [**HTML/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://github.com/aidswidjaja/aidswidjaja.github.io)
-* [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://github.com/aidswidjaja/osc-guide)
-* [**HTML/OCT2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://github.com/aidswidjaja/tangible-potato)
+<!-- * [**HTML/SEP2019** A quick and simple guide to Online Support Communities – aidswidjaja/osc-guide](https://github.com/aidswidjaja/osc-guide) -->
+<!-- * [**HTML/OCT2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://github.com/aidswidjaja/tangible-potato) -->
 
 ##### School Stuff
 
@@ -90,4 +90,4 @@ Hi, I'm Adrian and here is a list of all of my software development projects sin
 * [RangerAW on Scratch](https://scratch.mit.edu/users/RangerAW/)
 * [Adrian Widjaja on YouTube](https://youtube.com/c/AdrianWidjaja)
 
-###### Last updated 2 October 2019
+###### Last updated 28 October 2019
