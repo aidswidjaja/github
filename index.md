@@ -1,3 +1,5 @@
+<meta name="robots" content="noindex">
+
 # adw
 ## Welcome to sturdy-potato, Adrian Widjaja's natural habitat on GitHub.
 
