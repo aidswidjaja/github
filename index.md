@@ -1,15 +1,14 @@
 <meta name="robots" content="noindex">
 
 # adw
-## Welcome to sturdy-potato, Adrian Widjaja's natural habitat on GitHub.
+## Welcome to sturdy-potato, Adrian's natural habitat on GitHub.
 
 Hi, I'm Adrian and here is a list of all of my software development projects since I got into that sort of stuff. It's quite fascinating, isn't it!
 
-###### Also, if you're trying to dox me, good luck but I don't really care. My full name is in my public email, and I've never posted my face or address on the Internet, so have fun!
+###### and dont try doxxing me unless you want the favour to be returned
 
 ### Live websites
 
-* [**Jekyll/OCT2019** Adrian's Study Club – aidswidjaja/study](https://aidswidjaja.github.io/study)
 <!-- * [**HTML/AUG2019** r/teenagers concept website with modified Bootstrap by Adrian – aidswidjaja/tangible-potato](https://aidswidjaja.github.io/tangible-potato) -->
 * [**GFM/SEP2019** sturdy-potato – aidswidjaja/aidswidjaja.github.io](https://aidswidjaja.github.io)
 * [**HTML/SEP2019** Adrian's HTML5 Boilerplate – aidswidjaja/html5-boilerplate](https://adw-boilerplate.netlify.com)
