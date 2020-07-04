@@ -7,7 +7,6 @@
 
 - **Nettomo** - a proposed multimodal communication platform that's taking a different approach to online communities.
   - **Fugai** - cross-platform and open-source overlay alternative to Steam Overlay for rapid communication and information with minimal performance impact for macOS and Windows and maybe Linux. Written in Python using Qt technologies.
-- **Things You Should Know App** - the free information service that keeps Y10 students updated with assessments, events and other information gets its own app for iOS, Android, Windows and macOS. Based on Microsoft Power Apps Platform using Electron.js for desktop technologies.
 - **OSCAR** - for more information contact me on Discord (aidswidjaja#2805)
 
 ### Future Projects
