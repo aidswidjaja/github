@@ -5,9 +5,7 @@
 
 ### Currently working on
 
-- **Nettomo** - a proposed multimodal communication platform that's taking a different approach to online communities.
-  - **Fugai** - cross-platform and open-source overlay alternative to Steam Overlay for rapid communication and information with minimal performance impact for macOS and Windows and maybe Linux. Written in Python using Qt technologies.
-- **OSCAR** - for more information contact me on Discord (aidswidjaja#2805)
+not much happening rn
 
 ### Future Projects
 
@@ -99,6 +97,6 @@
 
 ### Social
 
-[adrian.id.au](https://adrian.id.au)
+[heyo.adrian.id.au](https://heyo.adrian.id.au)
 
-###### Last updated 4 July 2020
+###### Last updated 20 August 2020
